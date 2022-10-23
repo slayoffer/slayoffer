@@ -1,4 +1,4 @@
-![Logo](https://embed.lottiefiles.com/animation/62773)
+![Logo](https://i.ibb.co/1QMj8GZ/62773-yoga-developer.gif)
 
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A passionate fullstack developer from Vladivostok, Russia</h3>

@@ -7,9 +7,9 @@
 <br>
 <ul>
   <li>🚀 I’m actively working on [GeekConsole](https://geekconsole.app/)</li>
-</ul>
-- 🌱 I’m currently learning **React, TypeScript and DevOps tools**
 
+  <li>🌱 I’m currently learning **React, TypeScript and DevOps tools**</li>
+</ul>
 - 👨‍💻 All of my projects are available at [https://antonevseev.com/](https://antonevseev.com/)
 
 - 📝 I sometimes write articles on [https://vedicoder.fun/](https://vedicoder.fun/)

@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A zen fullstack developer from Vladivostok, Russia</h3>
 <br>
-- 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/)
+- 🚀 I’m currently working on [GeekConsole](https://geekconsole.app/)
 
 - 🌱 I’m currently learning **React, TypeScript and DevOps tools**
 

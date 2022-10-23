@@ -4,18 +4,18 @@
 
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A zen fullstack developer from Vladivostok, Russia</h3>
-<br>
+</br>
 - 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/)
 
 - 🌱 I’m currently learning **React, TypeScript and DevOps tools**
 
-- 👨‍💻 All of my projects are available at [https://antonevseev.com/](https://antonevseev.com/)
+- 👨‍💻 All of my projects are available at [antonevseev.com](https://antonevseev.com/)
 
-- 📝 I sometimes write articles on [https://vedicoder.fun/](https://vedicoder.fun/)
+- 📝 I sometimes write articles on [vedicoder.fun](https://vedicoder.fun/)
 
 - 💬 Ask me anything about **productivity and health**
 
-- 📄 Get to know about my past experiences at [https://antonevseev.resoume.com/](https://antonevseev.resoume.com/)
+- 📄 Get to know about my past experiences at [antonevseev.resoume.com](https://antonevseev.resoume.com/)
 
 - ⚡ Fun fact: **The world's longest walking distance is 14,000 miles. You can walk from Magadan in Russia to Cape Town in South Africa. It requires no flying or sailing - just bridges and open roads.**
 <br>

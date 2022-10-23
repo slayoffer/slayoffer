@@ -1,4 +1,6 @@
-<p align="center">![Logo](https://i.ibb.co/1QMj8GZ/62773-yoga-developer.gif)</p>
+<p align="center">
+  <img src="https://i.ibb.co/1QMj8GZ/62773-yoga-developer.gif" alt="logo" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A passionate fullstack developer from Vladivostok, Russia</h3>

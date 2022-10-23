@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayoffer&label=Profile%20views&color=0e75b6&style=flat" alt="slayoffer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slayoffer" alt="slayoffer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vedic_coder" target="blank"><img src="https://img.shields.io/twitter/follow/vedic_coder?logo=twitter&style=for-the-badge" alt="vedic_coder" /></a> </p>
 
 - 🔭 I’m currently working on [GeekConsole](https://geekconsole.app/)
@@ -16,8 +14,6 @@
 - 📝 I sometimes write articles on [https://vedicoder.fun/](https://vedicoder.fun/)
 
 - 💬 Ask me about **life and health**
-
-- 📫 How to reach me **slayoffer@gmail.com**
 
 - 📄 Know about my experiences [https://antonevseev.resoume.com/](https://antonevseev.resoume.com/)
 

@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **life and health**
 
-- 📄 Know about my experiences [https://antonevseev.resoume.com/](https://antonevseev.resoume.com/)
+- 📄 Know about my past experiences at [https://antonevseev.resoume.com/](https://antonevseev.resoume.com/)
 
-- ⚡ Fun fact **The world's longest walking distance is 14,000 miles. You can walk from Magadan in Russia to Cape Town in South Africa. It requires no flying or sailing - just bridges and open roads.**
+- ⚡ Fun fact: **The world's longest walking distance is 14,000 miles. You can walk from Magadan in Russia to Cape Town in South Africa. It requires no flying or sailing - just bridges and open roads.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vedic_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedic_coder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antonevseev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonevseev" height="30" width="40" /></a>

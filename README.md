@@ -5,11 +5,10 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A zen fullstack developer from Vladivostok, Russia</h3>
 <br>
-<ul>
-  <li>🚀 I’m actively working on [GeekConsole](https://geekconsole.app/)</li>
+- 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/)
 
-  <li>🌱 I’m currently learning **React, TypeScript and DevOps tools**</li>
-</ul>
+- 🌱 I’m currently learning **React, TypeScript and DevOps tools**
+
 - 👨‍💻 All of my projects are available at [https://antonevseev.com/](https://antonevseev.com/)
 
 - 📝 I sometimes write articles on [https://vedicoder.fun/](https://vedicoder.fun/)

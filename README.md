@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://antonevseev.com/](https://antonevseev.com/)
 
-- 📝 I regularly write articles on [https://vedicoder.fun/](https://vedicoder.fun/)
+- 📝 I sometimes write articles on [https://vedicoder.fun/](https://vedicoder.fun/)
 
 - 💬 Ask me about **life and health**
 

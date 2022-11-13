@@ -3,9 +3,9 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=Fullstack+Webdeveloper+from+Russia" alt="Typing SVG" /></a></p>
 
 
-- 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/) with my younger brother [Volodya](https://github.com/vVolodya/)
+- 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)
 
-- 🌱 I’m currently learning **React, TypeScript and DevOps tools**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 Most of my projects are available at [antonevseev.com](https://antonevseev.com/)
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps/SRE/Cloud+Engineer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer" alt="Typing SVG" /></a></p>
 
 
 - 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)

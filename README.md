@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/1QMj8GZ/62773-yoga-developer.gif" alt="logo" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Anton</h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=Fullstack+Webdeveloper+from+Russia" alt="Typing SVG" /></a></p>

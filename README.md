@@ -9,8 +9,6 @@
 
 - 💬 Ask me anything about **productivity and health**
 
-- 📄 Get to know about my past and current job experiences at [antonevseev.resoume.com](https://antonevseev.resoume.com/)
-
 - 🎮 My [Discord community](https://discord.gg/Aj8uZXaxZD) for having fun and coop with friends in video games
 
 - ⚡ Fun fact: **Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”**

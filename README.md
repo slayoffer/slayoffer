@@ -57,11 +57,12 @@ spec:
     drink: ☕
     music: 🎸
 ```
-
-<h3 align="left">A Random Geek Joke:</h3>
+<div align="center">
+<h3>A Random Geek Joke:</h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
+</div>
 <h3 align="center">Feel free to connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/vedic_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedic_coder" height="30" width="40" /></a>

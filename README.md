@@ -5,7 +5,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer.)](https://github.com/slayoffer)
 
 <div align="center">
-  <img src="giphy.gif" width="600" height="300"/>
+  ![giphy](giphy.gif)
 </div>
 
 - 🌱 I’m currently working as **Senior DevOps Engineer**

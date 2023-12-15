@@ -5,8 +5,6 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Valdemar.)](https://github.com/sponsors/heyValdemar)
-
 - 🌱 I’m currently working as **Senior DevOps Engineer**
 
 - 🚀 I’m actively building [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)

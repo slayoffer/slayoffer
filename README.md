@@ -23,7 +23,7 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 # Some of My Favorites Tools and Services
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,go,nodejs,aws,azure,gcp,docker,kubernetes,openshift,openstack,dynamodb,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,jenkins,maven,nginx,figma,html,css,wordpress,gatsby,unity,vim,neovim,vscode)](https://github.com/slayoffer)
+[![My Skills](https://skillicons.dev/icons?i=linux,md,bash,powershell,ansible,py,go,nodejs,aws,azure,gcp,docker,kubernetes,openshift,openstack,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,nginx,figma,html,css,wordpress,vim,vscode)](https://github.com/slayoffer)
 
 # My Specs
 

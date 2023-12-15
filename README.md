@@ -1,9 +1,7 @@
-hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Anton Evseev
+hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Anton Evseev
 =========================================================================================================================================
-<br>
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer.)](https://github.com/slayoffer)
-</div>
 
 - 🌱 I’m currently working as **Senior DevOps Engineer**
 
@@ -63,9 +61,7 @@ spec:
 <h3 align="left">A Random Geek Joke:</h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-<br>
 
-<br>
 <h3 align="center">Feel free to connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/vedic_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedic_coder" height="30" width="40" /></a>

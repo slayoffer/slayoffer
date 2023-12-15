@@ -3,6 +3,17 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer.)](https://github.com/slayoffer)
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps%5CSRE%2FCloud+Engineer.)](https://github.com/slayoffer)
+
+</div>
+
+
+<div align="center">
+  <img src="giphy.gif" alt="Your GIF Description">
+</div>
+
 - 🌱 I’m currently working as **Senior DevOps Engineer**
 
 - 🚀 I’m actively building [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)
@@ -14,14 +25,6 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 - 🎮 My [Discord community](https://discord.gg/Aj8uZXaxZD) for having fun and coop with friends in video games
 
 - ⚡ Fun fact: i also run medical travel biz as a side-hustle. Check it out at **LIFEKOREA.ru**
-
-<br>
-
-![giphy](giphy.gif)
-
-<div align="center">
-  <img src="giphy.gif" alt="Your GIF Description">
-</div>
 
 # Some of My Favorites Tools and Services
 

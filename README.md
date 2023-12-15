@@ -17,9 +17,7 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <br>
 
-<div align="center">
-  ![giphy](giphy.gif)
-</div>
+![giphy](giphy.gif)
 
 # Some of My Favorites Tools and Services
 

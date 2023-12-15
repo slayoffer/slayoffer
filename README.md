@@ -2,9 +2,6 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 =========================================================================================================================================
 
 <div align="center">
-Hey! 🖐️ My name is Anton Evseev
-=========================================================================================================================================
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer)
 ![giphy](giphy.gif)
 </div>

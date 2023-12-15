@@ -1,19 +1,11 @@
 hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Anton Evseev
 =========================================================================================================================================
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer.)](https://github.com/slayoffer)
-
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps%5CSRE%2FCloud+Engineer.)](https://github.com/slayoffer)
-
 </div>
-
-
 <div align="center">
   <img src="giphy.gif" alt="Your GIF Description">
 </div>
-
 - 🌱 I’m currently working as **Senior DevOps Engineer**
 
 - 🚀 I’m actively building [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)

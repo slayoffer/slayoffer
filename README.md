@@ -9,9 +9,9 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="giphy.gif" alt="Your GIF Description">
 </div>
 
-- 🌱 I’m currently working as **Senior DevOps Engineer**
+- 🌱 I'm currently working as **Senior DevOps Engineer**
 
-- 🚀 I’m actively building [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)
+- 🚀 I've co-founded an opensource project called [GeekConsole](https://geekconsole.app/) with my brother [Volodya](https://github.com/vVolodya/)
 
 - 💬 Ask me anything about **devops, cloud computing, homelabbing, growth hacking and biohacking**. These are my life hobbies
 
@@ -19,7 +19,7 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 - 🎮 My [Discord community](https://discord.gg/Aj8uZXaxZD) for having fun and coop with friends in video games
 
-- ⚡ Fun fact: i also run medical travel biz as a side-hustle. Check it out at **LIFEKOREA.ru**
+- 🏥 Fun fact: i run a small medical travel biz as a side-hustle
 
 # Some of My Favorites Tools and Services
 

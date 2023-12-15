@@ -1,9 +1,7 @@
 hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Anton Evseev
 =========================================================================================================================================
 
-<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e11d48&center=true&width=435&lines=DevOps\SRE/Cloud+Engineer)
-</div>
 
 
 - 🌱 I’m currently working as **Senior DevOps Engineer**

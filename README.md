@@ -9,7 +9,7 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="giphy.gif" alt="Your GIF Description">
 </div>
 
-- 🌱 I'm currently working as **Senior DevOps Engineer**
+- 🌱 I'm currently working as a **Senior DevOps Engineer**
 
 - 🚀 I'm developing a pet project called [GeekConsole](https://geekconsole.app/) with my brother 
  [Volodya](https://github.com/vVolodya/)

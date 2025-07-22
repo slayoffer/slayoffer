@@ -9,12 +9,9 @@ hey,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="giphy.gif" alt="Your GIF Description">
 </div>
 
-- 🌱 I'm currently working as a **Senior DevOps Engineer**
+- 🌱 I'm currently working as a **LLMOps Engineer**
 
-- 🚀 I'm developing a pet project called [GeekConsole](https://geekconsole.app/) with my brother 
- [Volodya](https://github.com/vVolodya/)
-
-- 💬 Ask me anything about **devops, cloud computing, homelabbing, growth hacking and biohacking**. These are my life hobbies
+- 💬 Ask me anything about **ai agents, devops, cloud computing, homelabbing, growth hacking and biohacking**. These are my life hobbies
 
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/antonevseev), [Twitter](https://twitter.com/vedic_coder), [Facebook](https://fb.com/anthony.evseev)
 
